@@ -46,10 +46,19 @@ function promptUser() {
             name: 'license',
             message: 'License: ',
             choices: [
-                'Apache License 2.0',
-                'MIT License', 
-                'GNU GPLv3'
-            ]
+                {
+                    name:'Apache License 2.0',
+                    value: 'Apache'
+                },
+                {
+                    name:'MIT License', 
+                    value: 'MIT'
+                },
+                {
+                    name:'GNU GPLv3',
+                    value: 'GPL'
+                },
+            ],
         },
         {
             type: 'input',
