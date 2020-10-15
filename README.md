@@ -7,10 +7,10 @@
   ## Table of Contents
 
   - [Description](#description)
-  - [Installation](#installInstructions)
-  - [Usage](#usageInfo)
-  - [Contributions & Guidelines](#contributorGuidelines)
-  - [Tests](#testInstructions)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributions & Guidelines](#contributions-&-guidelines)
+  - [Tests](#tests)
   - [Questions](#questions)
 
   ## Description 
