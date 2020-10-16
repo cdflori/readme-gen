@@ -36,7 +36,7 @@ function generateMarkdown(data) {
 
   ## Badges \n
   
-  ![License](https://img.shields.io/badge/license-${data.choices}-blue.svg) \n
+  ![License](https://img.shields.io/badge/license-${data.license}-blue.svg) \n
 `;
 }
 
